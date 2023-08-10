@@ -10,22 +10,14 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+/*#include <stdio.h>
 
 int ft_sqrt(int nb);
 
 int main()
 {
 	printf("%d\n",ft_sqrt(1739485865));
-	printf("%d\n",ft_sqrt(1739485865));
-	printf("%d\n",ft_sqrt(1739485865));
-	printf("%d\n",ft_sqrt(__INT_MAX__));
-	printf("%d\n",ft_sqrt(__INT_MAX__));
-	printf("%d\n",ft_sqrt(__INT_MAX__));
-	printf("%d\n",ft_sqrt(__INT_MAX__));
-	printf("%d\n",ft_sqrt(__INT_MAX__));
-	printf("%d\n",ft_sqrt(__INT_MAX__));
-}
+}*/
 int	ft_sqrt(int nb)
 {
 	int	i;
