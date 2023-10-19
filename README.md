@@ -1,13 +1,17 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+<div align="center">
+  <h1>C05</h1>
+  
+  ![Static Badge](https://img.shields.io/badge/score-80%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
+  ![Static Badge](https://img.shields.io/badge/Retries-5-green?style=for-the-badge&logo=42&color=%233a9100)
 
-      <style>
-        /* your CSS */
-      </style>
-
-      <!-- your HTML -->
-
-    </div>
-  </foreignObject>
-</svg>
+  Function|Description|Status
+  --|--|--
+ `iterative_factorial`|Returns the factorial of the number received|✔️
+ `recursilve_factorial`|Returns the factorial of the number received|✔️
+ `iterative_factorial`|Returns the factorial of the number received|✔️
+ `iterative_factorial`|Returns the factorial of the number received|✔️
+ `iterative_factorial`|Returns the factorial of the number received|✔️
+ `iterative_factorial`|Returns the factorial of the number received|✔️
+ `iterative_factorial`|Returns the factorial of the number received|✔️
+ `iterative_factorial`|Returns the factorial of the number received|✔️
+</div>
