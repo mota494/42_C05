@@ -1,4 +1,13 @@
-# 42_C05
-**C05** project made during piscine #6 from _42 Porto_
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
 
-**EX05** has a sketchy way to work, basically if you get a number and decrement it using only odd numbers (1, 3 , 5 ,7) and count the times you do that untill the number reaches 0 exactly that count will be his square root
+      <style>
+        /* your CSS */
+      </style>
+
+      <!-- your HTML -->
+
+    </div>
+  </foreignObject>
+</svg>
