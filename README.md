@@ -2,7 +2,7 @@
   <h1>C05</h1>
   
   ![Static Badge](https://img.shields.io/badge/score-80%2F100-green?style=for-the-badge&logo=42&color=%233a9100)
-  ![Static Badge](https://img.shields.io/badge/Retries-5-green?style=for-the-badge&logo=42&color=%233a9100)
+  ![Static Badge](https://img.shields.io/badge/Retries-6-green?style=for-the-badge&logo=42&color=%233a9100)
 
   Function|Description|Status
   --|--|--
